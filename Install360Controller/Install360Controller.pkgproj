@@ -868,13 +868,6 @@
 				<key>PATH_TYPE</key>
 				<integer>1</integer>
 			</dict>
-			<key>CERTIFICATE</key>
-			<dict>
-				<key>NAME</key>
-				<string>Developer ID Application: Rodrigo Rocha (CDMF3S9CTN)</string>
-				<key>PATH</key>
-				<string>/Users/Rodrigo/Library/Keychains/login.keychain</string>
-			</dict>
 			<key>EXCLUDED_FILES</key>
 			<array>
 				<dict>
